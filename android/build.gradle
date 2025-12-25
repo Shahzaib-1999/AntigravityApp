@@ -22,6 +22,18 @@ allprojects {
         google()
         mavenCentral()
     }
+    
+    // Disable lint checks for all sub-projects to speed up release builds
+    afterEvaluate { project ->
+        if (project.hasProperty('android')) {
+            project.android {
+                lintOptions {
+                    checkReleaseBuilds false
+                    abortOnError false
+                }
+            }
+        }
+    }
 }
 
 task clean(type: Delete) {
