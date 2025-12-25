@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087183331518",
+    "project_id": "platinum-music-479821-e1",
+    "storage_bucket": "platinum-music-479821-e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087183331518:android:5d9d8154b1e6b6d509beef",
+        "android_client_info": {
+          "package_name": "com.base44.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087183331518-ego9u87ke08ejvndsm0iivm4loqmtg0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.base44.app",
+            "certificate_hash": "0512e63c4b494ea26fee8f8a4cb64d6957c10d11"
+          }
+        },
+        {
+          "client_id": "1087183331518-dvoahcg4382n32g69lqkdj6p1rr3bmtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA06xEj89jFtgPRAmD0_7Ufw43m-v6zpPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087183331518-dvoahcg4382n32g69lqkdj6p1rr3bmtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

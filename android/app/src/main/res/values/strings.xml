@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Usta\'s</string>
+    <string name="title_activity_main">Usta\'s</string>
+    <string name="package_name">com.base44.app</string>
+    <string name="custom_url_scheme">com.base44.app</string>
+</resources>
